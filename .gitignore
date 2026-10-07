@@ -26,3 +26,6 @@ dataset/
 # OS files
 .DS_Store
 Thumbs.db
+
+archive.zip
+models/*.joblib
